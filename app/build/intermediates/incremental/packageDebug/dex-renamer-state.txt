@@ -1,0 +1,4 @@
+#Tue Jun 06 09:57:50 IST 2017
+base.0=/home/shivam/AndroidStudioProjects/Filelibrarycheck/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/shivam/AndroidStudioProjects/Filelibrarycheck/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

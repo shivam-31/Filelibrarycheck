@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:10:22-64
+application
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:12:5-48:19
+MERGED from [gr.pantrif:easy-android-splash-screen:0.0.1] /home/shivam/.android/build-cache/ca68da2423f8052964b95fa6655c6fe1b7009dfd/output/AndroidManifest.xml:12:5-17:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] /home/shivam/.android/build-cache/bb29ec2b8f0bf9728fb3df6a066e7c1dbf379674/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/shivam/.android/build-cache/199ee81fd5103f0809591f6aab3101239c5cb10b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/shivam/.android/build-cache/b3d36bbd092708ecc97cf45f7e0619dee9688347/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/shivam/.android/build-cache/f76ac722159d063c90713e637246c703c12b9397/output/AndroidManifest.xml:9:5-20
+MERGED from [com.github.blackfizz:eazegraph:1.2.2] /home/shivam/.android/build-cache/fa30e372f42c886a3f1c6bb3a017ff28d998ac90/output/AndroidManifest.xml:11:5-12:19
+MERGED from [com.nispok:snackbar:2.11.0] /home/shivam/.android/build-cache/51870ec93f50d4384f397ec20a96898fafa07566/output/AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:recyclerview-v7:22.0.0] /home/shivam/.android/build-cache/c01be9d571a0c521ab55fe117acaa42f766cdfe5/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.0.0] /home/shivam/.android/build-cache/e6fa22700104e431f9a50556e13ab03c0a8c5078/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /home/shivam/.android/build-cache/35801b36196bc575b5860765229c878a9c5c7ec4/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /home/shivam/.android/build-cache/1dcd83bd6374d3c2aae96d73f2f00ba733819486/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /home/shivam/.android/build-cache/4c4a1e3423b02330765b32ad7c8298ec2cd92c20/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /home/shivam/.android/build-cache/4aec25cd116f397b64d2108e3ba3e73e10562d0d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /home/shivam/.android/build-cache/4fdbb783d342e3da333813da2285349928518124/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/shivam/.android/build-cache/40c64b572adca014191658cfa21cf8eab6d9c42e/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:17:9-35
+	android:configChanges
+		ADDED from [gr.pantrif:easy-android-splash-screen:0.0.1] /home/shivam/.android/build-cache/ca68da2423f8052964b95fa6655c6fe1b7009dfd/output/AndroidManifest.xml:14:9-70
+	android:allowBackup
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:15:9-42
+	android:theme
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:13:9-38
+activity#com.example.shivam.filelibrarycheck.SplashActivity
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:theme
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:21:13-46
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:20:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.example.shivam.filelibrarycheck.markAttendance
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:28:9-31:47
+	android:label
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:30:13-44
+	android:theme
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:29:13-43
+activity#com.example.shivam.filelibrarycheck.MainActivity
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:32:9-34:51
+	android:label
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:34:13-48
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:33:13-41
+activity#com.example.shivam.filelibrarycheck.Piechart
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:35:9-46
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:35:19-43
+activity#com.example.shivam.filelibrarycheck.Metadata
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:36:9-46
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:36:19-43
+activity#com.example.shivam.filelibrarycheck.RegisterActivity
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:37:9-54
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:37:19-51
+activity#com.example.shivam.filelibrarycheck.MainActivityin
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:38:9-52
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:38:19-49
+activity#com.example.shivam.filelibrarycheck.LoginActivity
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:39:9-51
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:39:19-48
+activity#com.example.shivam.filelibrarycheck.CreateData
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:40:9-44:20
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:40:19-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:41:13-43:84
+	android:value
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:43:17-81
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:42:17-63
+activity#com.example.shivam.filelibrarycheck.AttendanceList
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:45:9-52
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:45:19-49
+activity#com.example.shivam.filelibrarycheck.ViewAttendance
+ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:46:9-47:20
+	android:name
+		ADDED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml:46:19-49
+uses-sdk
+INJECTED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.sromku:simple-storage:1.2.0] /home/shivam/.android/build-cache/60fb495f78d4bd19615f08ed3e67b3a3c253df1a/output/AndroidManifest.xml:8:5-10:41
+MERGED from [gr.pantrif:easy-android-splash-screen:0.0.1] /home/shivam/.android/build-cache/ca68da2423f8052964b95fa6655c6fe1b7009dfd/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] /home/shivam/.android/build-cache/bb29ec2b8f0bf9728fb3df6a066e7c1dbf379674/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/shivam/.android/build-cache/199ee81fd5103f0809591f6aab3101239c5cb10b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/shivam/.android/build-cache/b3d36bbd092708ecc97cf45f7e0619dee9688347/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.volley:volley:1.0.0] /home/shivam/.android/build-cache/f76ac722159d063c90713e637246c703c12b9397/output/AndroidManifest.xml:7:5-43
+MERGED from [com.github.dakatso:livebutton:1.0.0] /home/shivam/.android/build-cache/f1ed5008685f5bc0a48355987742ba83c2197c6b/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.blackfizz:eazegraph:1.2.2] /home/shivam/.android/build-cache/fa30e372f42c886a3f1c6bb3a017ff28d998ac90/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yalantis:phoenix:1.2.3] /home/shivam/.android/build-cache/b70b56c45027f2e63d5c41e74868e9676436a8e9/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.nispok:snackbar:2.11.0] /home/shivam/.android/build-cache/51870ec93f50d4384f397ec20a96898fafa07566/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:recyclerview-v7:22.0.0] /home/shivam/.android/build-cache/c01be9d571a0c521ab55fe117acaa42f766cdfe5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.0.0] /home/shivam/.android/build-cache/e6fa22700104e431f9a50556e13ab03c0a8c5078/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] /home/shivam/.android/build-cache/35801b36196bc575b5860765229c878a9c5c7ec4/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] /home/shivam/.android/build-cache/1dcd83bd6374d3c2aae96d73f2f00ba733819486/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] /home/shivam/.android/build-cache/4c4a1e3423b02330765b32ad7c8298ec2cd92c20/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] /home/shivam/.android/build-cache/4aec25cd116f397b64d2108e3ba3e73e10562d0d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.0] /home/shivam/.android/build-cache/4fdbb783d342e3da333813da2285349928518124/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/shivam/.android/build-cache/40c64b572adca014191658cfa21cf8eab6d9c42e/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] /home/shivam/.android/build-cache/bb29ec2b8f0bf9728fb3df6a066e7c1dbf379674/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/AndroidManifest.xml
+activity#android.support.v7.widget.TestActivity
+ADDED from [com.android.support:recyclerview-v7:22.0.0] /home/shivam/.android/build-cache/c01be9d571a0c521ab55fe117acaa42f766cdfe5/output/AndroidManifest.xml:23:9-25:56
+	android:label
+		ADDED from [com.android.support:recyclerview-v7:22.0.0] /home/shivam/.android/build-cache/c01be9d571a0c521ab55fe117acaa42f766cdfe5/output/AndroidManifest.xml:25:13-53
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:22.0.0] /home/shivam/.android/build-cache/c01be9d571a0c521ab55fe117acaa42f766cdfe5/output/AndroidManifest.xml:24:13-66

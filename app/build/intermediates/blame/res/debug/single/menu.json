@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Filelibrarycheck/app/build/intermediates/res/merged/debug/menu/create_data_menu.xml",
+        "source": "/home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/res/menu/create_data_menu.xml"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Filelibrarycheck/app/build/intermediates/res/merged/debug/menu/activity_main_actions.xml",
+        "source": "/home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/res/menu/activity_main_actions.xml"
+    }
+]

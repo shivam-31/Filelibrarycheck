@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Filelibrarycheck/app/build/intermediates/res/merged/debug/mipmap-mdpi/tick_green.png",
+        "source": "/home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/res/mipmap-mdpi/tick_green.png"
+    },
+    {
+        "merged": "/home/shivam/AndroidStudioProjects/Filelibrarycheck/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/shivam/AndroidStudioProjects/Filelibrarycheck/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
